@@ -1,0 +1,4 @@
+name: Lapiz Rift Atempt
+version: '1.0-SNAPSHOT'
+main: me.polar.lapizRiftAtempt.LapizRiftAtempt
+api-version: '1.21'
